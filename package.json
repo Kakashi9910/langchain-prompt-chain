@@ -1,0 +1,13 @@
+{
+  "name": "langchain-prompt-chain",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/chain.js"
+  },
+  "dependencies": {
+    "@langchain/core": "^0.3.0",
+    "@langchain/google-genai": "^0.2.0",
+    "dotenv": "^16.4.5"
+  }
+}
